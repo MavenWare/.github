@@ -1,6 +1,6 @@
 <img width="1280" height="460" alt="wbjhgb5q6f841 png-720 - Copy" src="https://github.com/user-attachments/assets/bfbbbb70-8b3d-42ef-afbd-0fabe6d03737" />
 
-# SintaxLabs
+# MavenWare
 Developing mods and plugins for Minecraft Java Edition
 
 - 750 Downloads ✅
