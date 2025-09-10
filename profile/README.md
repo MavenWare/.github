@@ -2,6 +2,7 @@
 
 # MavenWare
 > Formerly SintaxLabs
+
 Developing mods and plugins for Minecraft Java Edition
 
 - 750 Downloads ✅
