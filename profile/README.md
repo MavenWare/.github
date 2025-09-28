@@ -12,4 +12,4 @@ Developing mods and plugins for Minecraft Java Edition
 - Open source all projects to promote transparency and inspire others to develop and grow.
 
 ## Links
-[Ko-fi](https://ko-fi.com/jammerz) / [Discord](discord.gg/JjqjaJDaF5) / [Spigoty Repo](https://github.com/eh-K/Spigoty)
+[Ko-fi](https://ko-fi.com/jammerz) / [Discord](https://discord.com/invite/JjqjaJDaF5) / [Spigoty Repo](https://github.com/eh-K/Spigoty)
