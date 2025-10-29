@@ -5,7 +5,11 @@
 
 Developing mods and plugins for Minecraft Java Edition
 
-- 750 Downloads ✅
+Downloads!
+> Sep 7, 2025: 750
+> 
+> Oct 29, 2025: 1200
+
 
 ## Mission
 - Create projects that people may find useful or fun.
